@@ -22,4 +22,4 @@ Find more at my [homepage](https://congding.info/).
 
 ## About This Blog
 
-This blog is built via [Jekyll](http://jekyllrb.com). I used the template [BlackDoc](https://github.com/karloespiritu/BlackDoc) which based on based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme. Thanks to the author [Karlo Espiritu](https://github.com/karloespiritu). 
+This blog is built via [Jekyll](http://jekyllrb.com). I used the template [BlackDoc](https://github.com/karloespiritu/BlackDoc) which is based on [Poole](http://getpoole.com), the Jekyll butler, and the [Hyde](http://hyde.getpoole.com) theme. Thanks to the author [Karlo Espiritu](https://github.com/karloespiritu). 
