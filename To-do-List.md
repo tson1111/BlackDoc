@@ -3,7 +3,7 @@ layout: page
 title: To-do List
 ---
 
-* Google Summer of Code
+* 3.25 Google Summer of Code
 
 * MOOC
 
@@ -17,7 +17,8 @@ title: To-do List
 
     http://web.stanford.edu/class/cs224n
 
-  * UMichigan Neogotiation (cousera)
+  * UMichigan Negotiation (cousera)
 
-    
+* Programming: vjudge dp
 
+* 3.24 Google kick start
