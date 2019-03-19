@@ -16,7 +16,9 @@ Find more at my [homepage](https://congding.info/).
 
 [[GH]](https://github.com/tson1111/)  [[LIn]](https://www.linkedin.com/in/%E8%81%AA-%E4%B8%81-068a08139/)  [[TW]](https://twitter.com/tson15492372)  [[FB]](https://www.facebook.com/profile.php?id=100014964906125)  [[IG]](https://www.instagram.com/tson_1111/)
 
+![pic1](C:\Users\masdc\Pictures\微信图片_20180921213520.jpg)
 
+![pic2](C:\Users\masdc\Pictures\微信图片_20181006214803.jpg)
 
 ## About This Blog
 
