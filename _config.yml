@@ -5,7 +5,7 @@ highlighter:      rouge
 # Setup
 title:            Cong's Blog
 tagline:          Personal Blog of Cong Ding
-description:      "Random thoughts and daily record.试试中文"
+description:      "Random thoughts and daily record."
 url:              https://congding.info/blog/
 baseurl:          /blog/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
