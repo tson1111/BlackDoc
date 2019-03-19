@@ -6,7 +6,7 @@ highlighter:      rouge
 title:            Cong's Blog
 tagline:          Personal Blog of Cong Ding
 description:      "Random thoughts since 03/19/2019"
-url:              https://congding.info/blog
+url:              https://congding.info/blog/
 baseurl:          /blog/
                   # the optional subpath of your site, e.g. "/my-jekyll-site/"
                   # This will apply to all pages in your Jekyll site.
