@@ -33,7 +33,7 @@ html {
 
 body {
   color: #848482;
-  background-color: #1b1b1b;
+  background-color: #272727;
 }
 
 h1,
@@ -189,7 +189,7 @@ tbody tr:nth-child(odd) th {
   text-align: center;
   padding: 2rem 1rem;
   color: rgba(255, 255, 255, .5);
-  background-color: #312e2efa;
+  background-color: #363636b7;
   overflow: auto;
 }
 @media (min-width: 48em) {
