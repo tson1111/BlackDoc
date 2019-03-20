@@ -3,6 +3,11 @@ layout: page
 title: To-do List
 ---
 
+* Python
+
+  * 最大流算法
+  * k means聚类
+
 * 3.25 Google Summer of Code
 
 * MOOC
