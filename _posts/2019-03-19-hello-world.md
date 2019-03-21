@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Tech]Hello, World!
+title: \[Tech\]Hello, World!
 ---
 
 ## Prologue
