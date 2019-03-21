@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Algorithms]Maximum Flow
+title: "[Algorithms] Maximum Flow"
 ---
 
 haha
