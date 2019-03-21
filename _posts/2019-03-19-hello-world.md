@@ -19,7 +19,7 @@ I was building the website with win10 OS and jekyll. The following is some probl
 
 2. Install jekyll. gem install jekyll would be OK if you done the ruby and devkit thing right.
 
-3. Choose a satisfying theme. Choose the **new** ones!! Make sure it isn't out of date so that someone still maintains it. In that case there will not be any problems which wil be described later. 
+3. Choose a satisfying theme. Choose the **new** ones!! Make sure it isn't out of date so that someone still maintains it. In that case there will not be any problems I will describe later. 
 
 4. Install bundler. Many themes need bundler. When installing, make sure the version is in conformity with the theme (check *Gemfile.lock*).
 
@@ -33,7 +33,7 @@ I was building the website with win10 OS and jekyll. The following is some probl
    bundle exec jekyll build
    ```
 
-7. HTTPS or HTTP. Some old themes uses font via http protocol website, and this may cause the theme looks differently from local server (such as the font). In this case, try to replace all the "http" with "https" in the html file. It worked for me.
+7. HTTPS or HTTP. Some old themes uses font via http protocol website, and this may cause the theme looks differently from local server. In this case, try to replace all the "http" with "https" in the html file. It works for me.
 
 
 
