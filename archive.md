@@ -6,8 +6,7 @@ title: Archive
 
 * [Tech](#tech)
 * [Literature](#literature)
-* [Programming](#programming)
-* [Daily Routine](#daily-routine)
+* [Alogorithms](#algorithms)
 * [Paper](#paper)
 * [Miscellaneous](#miscellaneous)
 
@@ -18,9 +17,9 @@ title: Archive
 
 ## Literature
 
-## Programming
+## Algorithms
 
-## Daily Routine
+
 
 
 
