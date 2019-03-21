@@ -12,7 +12,7 @@ I am  a second-year undergraduate in Peking University, Beijing. Now I am majori
 
 I have a deep love for programming, data-driven methods and world literature.  
 
-Find more at my [homepage](https://congding.info/) or send e-mail to [congding@pku.edu.cn](mailto:congding@pku.edu.cn)
+Find more at my [homepage](https://congding.info/) or send e-mail to [congding@pku.edu.cn](mailto:congding@pku.edu.cn).
 
 [[GH]](https://github.com/tson1111/)  [[LIn]](https://www.linkedin.com/in/%E8%81%AA-%E4%B8%81-068a08139/)  [[TW]](https://twitter.com/tson15492372)  [[FB]](https://www.facebook.com/profile.php?id=100014964906125)  [[IG]](https://www.instagram.com/tson_1111/)
 
