@@ -5,8 +5,8 @@ title: "[GSoC] Letor Learning Notes"
 
 # Letor from a search engine prospective
 
-<div align = right> By Cong Ding, Mar. 25, 2019, Learning notes from <a href=http://terrierteam.blogspot.com/2013/03/learning-to-rank-research-using-terrier.html>the blogs</a>
-</div>
+Learning notes from the [blogs](http://terrierteam.blogspot.com/2013/03/learning-to-rank-research-using-terrier.html).
+
 
 ## Top K Retrieval (Sample)
 
