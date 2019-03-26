@@ -53,11 +53,11 @@ hidden variables —— EM
 
 MLE for SDBN:
 
-![MLE1](https://congding.info/blog/_posts/MLE1.png)
+![MLE1](https://congding.info/blog/pics/MLE1.png)
 
-![MLE2](https://congding.info/blog/_posts/MLE2.png)
+![MLE2](https://congding.info/blog/pics/MLE2.png)
 
-![MLE3](https://congding.info/blog/_posts/MLE3.png)
+![MLE3](https://congding.info/blog/pics/MLE3.png)
 
 to be conitued (I really need to install a jekyll plug-in for LaTeX support! )
 
