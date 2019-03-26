@@ -39,7 +39,31 @@ Learning notes from the [blogs](http://terrierteam.blogspot.com/2013/03/learning
 
 ### Parameter Estimation
 
+two methods:
 
+1. THE MLE ALGORITHM
+
+2. THE EM ALGORITHM
+
+All random variables can be observed —— MLE
+
+hidden variables —— EM 
+
+#### MLE
+
+MLE for SDBN:
+
+![MLE1](https://congding.info/blog/_posts/MLE1.png)
+
+![MLE2](https://congding.info/blog/_posts/MLE2.png)
+
+![MLE3](https://congding.info/blog/_posts/MLE3.png)
+
+to be conitued (I really need to install a jekyll plug-in for LaTeX support! )
+
+#### EM
+
+to be continued
 
 ### Architecture
 
