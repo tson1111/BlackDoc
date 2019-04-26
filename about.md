@@ -14,7 +14,7 @@ I have a deep love for programming, data-driven methods and world literature.
 
 Find more at my [homepage](https://congding.info/) or send e-mail to [congding@pku.edu.cn](mailto:congding@pku.edu.cn).
 
-[[GH]](https://github.com/tson1111/)  [[LIn]](https://www.linkedin.com/in/congding1111/)  [[TW]](https://twitter.com/tson15492372)  [[FB]](https://www.facebook.com/profile.php?id=100014964906125)  [[IG]](https://www.instagram.com/tson_1111/)
+[[GH]](https://github.com/tson1111/)  [[LIn]](https://www.linkedin.com/in/congding1111/)  [[TW]](https://twitter.com/tson1111)  [[FB]](https://www.facebook.com/profile.php?id=100014964906125)  [[IG]](https://www.instagram.com/tson_1111/)
 
 ![pic1](pic1.jpg)
 
